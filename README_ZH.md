@@ -101,6 +101,7 @@
 
 ### Tooling & Integrations
 
+- [AdeptAds Agent Skills](https://github.com/adeptads/agent-skills) — 透過託管的 AdeptAds MCP，以 Skill 與 Claude Code/Codex 外掛建立並管理 Google Ads 廣告活動；需要 AdeptAds 帳號與 Google Ads 存取權。 `Type: MCP + Plugin + Skill` · `Platforms: Claude Code, Codex`
 - [Agent QA](https://github.com/vostride/agent-qa) — 透過 CLI、MCP 伺服器與三個以證據為導向的 Agent Skills，執行自然語言網頁與行動應用程式 QA 工作流程。 `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
 - [call-me](https://github.com/radres/call-me) — 讓 Agent 撥打電話或傳簡訊到使用者的 iPhone 或 Android 手機、朗讀問題，並透過託管的 MCP 伺服器與付費配套 App 將口頭回答轉成文字傳回。 `Type: MCP + Plugin + Skill` · `Platforms: Cross-platform`
 - [Divan](https://github.com/trugurpala/divan) — 引導 Codex 處理自然語言軟體任務，涵蓋實作、審查與驗證。 `Type: Plugin + Collection` · `Platforms: Codex`
